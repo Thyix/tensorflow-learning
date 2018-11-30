@@ -25,6 +25,10 @@ def Regression():
     train_data = train_data[order]
     train_labels = train_labels[order]
 
+    print("Training set: {}".format(train_data.shape))  # 404 examples, 13 features
+    print("Testing set:  {}".format(test_data.shape))   # 102 examples, 13 features
+
+
 
 
 
