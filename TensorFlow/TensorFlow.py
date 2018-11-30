@@ -18,6 +18,7 @@ import Helper as Hlp
 import NotesDeCours as NC
 import Exercice1 as e1
 import Exercice2 as e2
+import Exercice3 as e3
 #import TensorBoard as TB
 
 #########################################################
@@ -28,6 +29,7 @@ import Exercice2 as e2
 
 #e1.Classification()
 #e2.TextClassification()
+e3.Regression()
 #NC.EspaceReserve()
 #NC.Variable()
 #NC.Matrice()

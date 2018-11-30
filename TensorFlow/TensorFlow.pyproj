@@ -28,6 +28,9 @@
     <Compile Include="Exercice2.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Exercice3.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Helper.py">
       <SubType>Code</SubType>
     </Compile>
