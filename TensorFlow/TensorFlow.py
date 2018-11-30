@@ -27,7 +27,7 @@ import Exercice2 as e2
 #########################################################
 
 #e1.Classification()
-e2.TextClassification()
+#e2.TextClassification()
 #NC.EspaceReserve()
 #NC.Variable()
 #NC.Matrice()
